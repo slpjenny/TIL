@@ -7,3 +7,5 @@
 
 ## 분류
 ### Android
+### Python
+### JavaScript
